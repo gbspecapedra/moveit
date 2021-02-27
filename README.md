@@ -33,6 +33,8 @@ $ yarn dev <br/>
 <span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
 <span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
 </div>
+  <h2>:brain: Move.it 2.0</h2>
+    <p><a href="https://www.figma.com/file/A3MaFHO23LYDWI16VdKayv/Move.it-2.0?node-id=2%3A3" rel="nofollow">Challenges</a> for the development of new features, in order to go the extra mile and further increase this application. You need to have a <a href="https://www.figma.com/" rel="nofollow">Figma</a> account to access it.</p>
     <h2>:pencil: License</h2>
     <p>This project is under the MIT license. See the <a href="https://github.com/gisabernardess/moveit/blob/main/LICENSE" rel="nofollow">LICENSE</a> for more information.</p>
     <hr>
